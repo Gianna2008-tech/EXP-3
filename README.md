@@ -37,14 +37,20 @@ switch2.
 •  Another end of lamp holder is connected to neutral line.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
+![WhatsApp Image 2025-12-18 at 6 25 01 PM](https://github.com/user-attachments/assets/4c3ad081-4cd8-43c1-b840-d0b96c9da3ee)
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+![BEEE EX 3 D1](https://github.com/user-attachments/assets/ccec1760-6358-4a17-b069-263f70f3821e)
+
 Tabulation:1
-	
+![WhatsApp Image 2025-12-18 at 6 25 11 PM](https://github.com/user-attachments/assets/c3b7e36f-d37f-4c1d-a7e3-8567d0c40c45)
+
 Cross connection: CIRCUIT DIAGRAM:
+![BEE EX 3 D2](https://github.com/user-attachments/assets/97b7f7ba-2c32-45c1-aaa7-2d0bd4736e06)
 
 Tabulation:2
+![WhatsApp Image 2025-12-18 at 6 25 28 PM](https://github.com/user-attachments/assets/0840def9-8159-4dff-9438-b6d9aad44c42)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
